@@ -1,5 +1,5 @@
 # Matt3414.github.io
-Fathers day wensite that i made in 7 days, with little html, and javascript experience.
+Fathers day website that i made in 7 days, with little html, and javascript experience.
 
 # Todo:
 
